@@ -1,0 +1,18 @@
+{
+    "origin": [
+        23973.162889,
+        33845.515418,
+        57086.23063
+    ],
+    "rotation_degrees": [
+        -20.0,
+        90.0,
+        20.0
+    ],
+    "region_min_strahler": {
+        "x_plus_y_plus": 2,
+        "x_minus_y_plus": 2,
+        "x_minus_y_minus": 2,
+        "x_plus_y_minus": 1
+    }
+}

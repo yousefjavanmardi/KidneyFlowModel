@@ -1,0 +1,16 @@
+{
+    "elements_path": "C:\\Users\\yousef\\Desktop\\Kidney_Python\\Elements.txt",
+    "nodes_path": "C:\\Users\\yousef\\Desktop\\Kidney_Python\\Nodes.txt",
+    "bc_path": "C:\\Users\\yousef\\Desktop\\Kidney_Python\\Boundary_Condition_pressure.txt",
+    "output_dir": "C:\\Users\\yousef\\Desktop\\Kidney_Python",
+    "boundary_condition": "Pressure",
+    "n_time": "2",
+    "p_ef": "50",
+    "r_gc": "5000",
+    "blood_viscosity": "0.001",
+    "p_bowman": "15",
+    "p_osmotic": "34.75",
+    "kf": "27.5e-6",
+    "r_gc_si": 40000000000000.0,
+    "n_glomeruli": 813926
+}

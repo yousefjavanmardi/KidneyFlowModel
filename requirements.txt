@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pyvista
+pyvistaqt
+PySide6
+vtk
+pyinstaller
