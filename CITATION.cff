@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "KidneyFlowModel: Whole-kidney haemodynamic modelling framework"
+type: software
+authors:
+  - family-names: Javanmardi
+    given-names: Yousef
+repository-code: "https://github.com/yousefjavanmardi/KidneyFlowModel"
+version: 1.0.0
+date-released: 2026-10-10
